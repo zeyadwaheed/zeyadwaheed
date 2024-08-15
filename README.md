@@ -10,7 +10,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/zeyad-waheed-871725269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeyadwaheed" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/zeyadwaheed14/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="zeyadwaheed" height="30"width="40" /></a>
+ <a href="https://leetcode.com/u/zeyadwaheed14/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%20Profile%20-%23000000?style=flat&logo=leetcode&logoColor=yellow" alt="LeetCode Profile" />
+</a>
+
 <a href="https://www.facebook.com/zeyad.waheed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zeyadwaheed" height="30" width="40" /></a>
 <a href="https://www.instagram.com/zeyadwaheed01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zeyadwaheed" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/zeyadwaheed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zeyadwaheed" height="30" width="40" /></a>

@@ -4,7 +4,7 @@
 
 
 - 📚 Always eager to explore and master new features.
-- 🧠 Driven by a passion for solving complex problems.
+- 🧠 Driven by a passion for problem-solving and tackling complex challenges.
 - 💻 Enthusiastic about back-end web development, with a focus on Node.js, and a strong interest in ML and DL.
 - 🔭 Bringing my experience as a TA at the Faculty of Engineering, Alexandria.
 - 📫 Let’s connect! Reach me at zeyadwaheed14@gmail.com.

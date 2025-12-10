@@ -8,11 +8,13 @@
 - 💻 Enthusiastic about back-end web development, with a focus on Node.js, and a strong interest in ML and DL.
 - 🔭 Bringing my experience as a TA at the Faculty of Engineering, Alexandria.
 - 📫 Let’s connect! Reach me at zeyadwaheed14@gmail.com.
-- <p align="left">
-  <a href="https://drive.google.com/file/d/1ihSl3S-B0gvUs37yM9-XK26xOiwMVTG1/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/View_My-CV%2FResume-blue?style=for-the-badge&logo=google-drive" alt="View CV/Resume on Google Drive"/>
-  </a>
+- <p align="center">
+  Know more about my experience through my 
+  <a href="https://drive.google.com/file/d/1ihSl3S-B0gvUs37yM9-XK26xOiwMVTG1/view?usp=drive_link" target="_blank" style="text-decoration: underline;">
+    resume
+  </a>.
 </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

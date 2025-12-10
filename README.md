@@ -9,7 +9,7 @@
 - 🔭 Bringing my experience as a TA at the Faculty of Engineering, Alexandria.
 - 📫 Let’s connect! Reach me at zeyadwaheed14@gmail.com.
 - <p align="left">
-  <a href="https://drive.google.com/file/d/1ihSl3S-B0gvUs37yM9-XK26x0iwMVTG1/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1ihSl3S-B0gvUs37yM9-XK26xOiwMVTG1/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/View_My-CV%2FResume-blue?style=for-the-badge&logo=google-drive" alt="View CV/Resume on Google Drive"/>
   </a>
 </p>

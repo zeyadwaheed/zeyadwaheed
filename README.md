@@ -7,6 +7,7 @@
 - 🧠 Driven by a passion for problem-solving and tackling complex challenges.
 - 💻 Enthusiastic about back-end web development, with a focus on Node.js, and a strong interest in ML and DL.
 - 🔭 Bringing my experience as a TA at the Faculty of Engineering, Alexandria.
+- - 📄 **View my Resume/CV here:** [Google Drive Link](https://drive.google.com/file/d/1ihSl3S-B0gvUs37yM9-XK26x0iwMVTG1/view?usp=drive_link)
 - 📫 Let’s connect! Reach me at zeyadwaheed14@gmail.com.
 
 <h3 align="left">Connect with me:</h3>

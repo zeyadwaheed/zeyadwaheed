@@ -9,7 +9,7 @@
 - 🔭 Bringing my experience as a TA at the Faculty of Engineering, Alexandria.
 - 📄 Know more about my experience through my 
   <a href="https://drive.google.com/file/d/1ihSl3S-B0gvUs37yM9-XK26xOiwMVTG1/view?usp=drive_link" target="_blank" style="text-decoration: underline;">
-    resume
+    Resume
   </a>.
 - 📫 Let’s connect! Reach me at zeyadwaheed14@gmail.com.
 

@@ -8,7 +8,7 @@
 - 💻 Enthusiastic about back-end web development, with a focus on Node.js, and a strong interest in ML and DL.
 - 🔭 Bringing my experience as a TA at the Faculty of Engineering, Alexandria.
 - 📄 Know more about my experience through my 
-  <a href="https://drive.google.com/file/d/1GBR6L4E4vT1cLhbm6z3InhMj53LVoF8a/view?usp=sharing" target="_blank" style="text-decoration: underline;">
+  <a href="https://drive.google.com/drive/folders/1DKnSlm51AI51K2PS21CCAo2AQfqIEOrc" target="_blank" style="text-decoration: underline;">
     Resume
   </a>.
 - 📫 Let’s connect! Reach me at zeyadwaheed14@gmail.com.

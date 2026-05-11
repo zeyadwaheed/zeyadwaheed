@@ -2,7 +2,6 @@
 <h3 align="center">Software Engineer</h3>
 <p align="center">Graduate from Faculty of Engineering, Alexandria University, Computer and Communication Department</p>
 
-
 - 📚 Always eager to explore and master new features.
 - 🧠 Driven by a passion for problem-solving and tackling complex challenges.
 - 💻 Enthusiastic about back-end web development, with a focus on Node.js, and a strong interest in ML and DL.
@@ -11,19 +10,13 @@
   <a href="https://drive.google.com/file/d/1gdvZjm7dK6zBbXHtu2Jt1kYBZF46s1Hz/view?usp=sharing" target="_blank" style="text-decoration: underline;">
     Resume
   </a>.
-- 📫 Let’s connect! Reach me at zeyadwaheed14@gmail.com.
-
-
+- 📫 Let's connect! Reach me at zeyadwaheed14@gmail.com.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/zeyad-waheed-871725269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeyadwaheed" height="30" width="40" /></a>
-<a href="https://www.facebook.com/zeyad.waheed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zeyadwaheed" height="30" width="40" /></a>
-<a href="https://www.instagram.com/zeyadwaheed01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zeyadwaheed" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/zeyadwaheed14/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/zeyadwaheed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zeyadwaheed" height="30" width="40" /></a>
-
-
+  <a href="https://www.linkedin.com/in/zeyad-waheed-871725269/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.facebook.com/zeyad.waheed/" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/zeyadwaheed01/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://leetcode.com/u/zeyadwaheed14/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://www.kaggle.com/zeyadwaheed" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 </p>
-</p>
-

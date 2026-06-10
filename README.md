@@ -6,7 +6,9 @@
 - 🧠 Driven by a passion for problem-solving and tackling complex challenges.
 - 💻 Enthusiastic about back-end and full-stack web development, with hands-on experience in Node.js and ASP.NET Core on the back-end, and Next.js and React.js on the front-end.
 - 🔭 Bringing my experience as a TA at both Alexandria University and Alexandria National University, Faculty of Engineering.
-- 🚀 Recently built real-world products like HireGate, a technical hiring platform, as part of my internship at Enozom Software.
+- 🚀 Recently built real-world products like <a href="https://github.com/zeyadwaheed/hiregate" target="_blank" style="text-decoration: underline;">
+    HireGate
+  </a>., a technical hiring platform, as part of my internship at Enozom Software.
 - 📄 Know more about my experience through my 
   <a href="https://drive.google.com/file/d/1geoAWAJXHNcHHqN2xxl_hVlVAL4Y8N4c/view?usp=sharing" target="_blank" style="text-decoration: underline;">
     Resume

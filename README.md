@@ -2,10 +2,11 @@
 <h3 align="center">Software Engineer</h3>
 <p align="center">Graduate from Faculty of Engineering, Alexandria University, Computer and Communication Department</p>
 
-- 📚 Always eager to explore and master new features.
+- 📚 Always eager to explore and master new technologies and frameworks.
 - 🧠 Driven by a passion for problem-solving and tackling complex challenges.
-- 💻 Enthusiastic about back-end web development, with a focus on Node.js, and a strong interest in ML and DL.
-- 🔭 Bringing my experience as a TA at the Faculty of Engineering, Alexandria.
+- 💻 Enthusiastic about back-end and full-stack web development, with hands-on experience in Node.js and ASP.NET Core on the back-end, and Next.js and React.js on the front-end.
+- 🔭 Bringing my experience as a TA at both Alexandria University and Alexandria National University, Faculty of Engineering.
+- 🚀 Recently built real-world products like HireGate, a technical hiring platform, as part of my internship at Enozom Software.
 - 📄 Know more about my experience through my 
   <a href="https://drive.google.com/file/d/1geoAWAJXHNcHHqN2xxl_hVlVAL4Y8N4c/view?usp=sharing" target="_blank" style="text-decoration: underline;">
     Resume

@@ -10,7 +10,7 @@
     HireGate
   </a>., a technical hiring platform, as part of my internship at Enozom Software.
 - 📄 Know more about my experience through my 
-  <a href="https://drive.google.com/file/d/1geoAWAJXHNcHHqN2xxl_hVlVAL4Y8N4c/view?usp=sharing" target="_blank" style="text-decoration: underline;">
+  <a href="https://drive.google.com/file/d/1CdVSxqilUvOHaqbxNEVFZcD4Ev2eQwlG/view?usp=sharing" target="_blank" style="text-decoration: underline;">
     Resume
   </a>.
 - 📫 Let's connect! Reach me at zeyadwaheed14@gmail.com.
